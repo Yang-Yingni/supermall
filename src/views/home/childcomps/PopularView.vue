@@ -1,0 +1,27 @@
+<template>
+  <div id="popularview">
+    <a href="https://act.mogujie.com/zzlx67">
+      <img src="~assets/img/home/recommend_bg.jpg" alt="">
+    </a>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'PopularView',
+  data() {
+    return {
+
+    };
+  },
+  methods: {
+
+  },
+};
+</script>
+
+<style scoped>
+#popularview img {
+  width: 100%;
+}
+</style>
